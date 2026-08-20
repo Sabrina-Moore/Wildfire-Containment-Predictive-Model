@@ -3,9 +3,8 @@
 ## Overview
 Predictive data analysis project using supervised machine learning to estimate California wildfire containment duration based on firefighter response lag and weather conditions. 
 
-First Stage: predict the number of hours or days a fire will burn before full containment considering weather factors, institutional response (which agency responds) and time of day
+How many days will a fire burn before full containment considering weather factors, institutional response (which agency responds) and time of day?
 
-Second Stage: based on the predicted burn length, how could we classify the fire to better let agencies deploy resources?
 
 ## Dataset
 Source: California Historical Fire Perimeters from 1950 to 2025 (https://data.ca.gov/organization/cal-fire)
@@ -34,6 +33,15 @@ Modeling:
 
 
 
+### Key Insights
+
+
+
+
+## Next Steps
+Taking the first stage of the predictive model, can we use predicted burn length to classify fires more accurately for agency resource deployment?
+
+
 
 ## Getting Started
 Make sure Visual Studio Code is installed on your computer, or Python with Anaconda. 
@@ -51,6 +59,9 @@ Create a virtual environment to run code
 
 
 Install dependencies
+
+
+
 
 
 
