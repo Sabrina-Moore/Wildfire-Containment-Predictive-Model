@@ -43,7 +43,7 @@ My code was run using .py files and not ipynb notebooks. You may want to convert
 ### Installations
 Inside your terminal 
 ```sh
-git clone githubLink
+git clone https://github.com/Sabrina-Moore/Wildfire-Containment-Predictive-Model.git
 cd wildfire-model
 ```
 
