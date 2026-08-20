@@ -1,0 +1,11 @@
+# Editor directories
+.DS_Store
+
+# .VENV environment files
+.venv/
+venv/
+
+# Environment files
+ENV/
+env/
+
