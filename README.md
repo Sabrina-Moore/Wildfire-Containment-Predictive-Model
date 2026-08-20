@@ -3,9 +3,9 @@
 ## Overview
 Predictive data analysis project using supervised machine learning to estimate California wildfire containment duration based on firefighter response lag and weather conditions. 
 
-Goal: predict the number of hours or days a fire will burn before full containment considering weather factors, institutional response (which agency responds) and time of day
+First Stage: predict the number of hours or days a fire will burn before full containment considering weather factors, institutional response (which agency responds) and time of day
 
-Next Stage: based on the predicted burn length, how could we classify the fire to better let agencies deploy resources?
+Second Stage: based on the predicted burn length, how could we classify the fire to better let agencies deploy resources?
 
 ## Dataset
 Source: California Historical Fire Perimeters from 1950 to 2025 (https://data.ca.gov/organization/cal-fire)
